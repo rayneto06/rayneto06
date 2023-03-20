@@ -48,7 +48,7 @@
 
 - **Cloud Hosting**:
 
-  - AWS (Lambda, S3 Bucket)
+  - AWS (Lambda, S3 Bucket, CloudFront, API Gateway)
     
 <br>
 
