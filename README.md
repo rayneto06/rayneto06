@@ -18,7 +18,7 @@
 <br>
 
 - A passionate Self-taught Back-end developer
-- Currently working at @take5 as a Back-end developer
+- Currently working @take5 as a Back-end developer
 - Personal project [here](https://rayneto.pythonanywhere.com/)
 
 <br><br>
