@@ -33,6 +33,7 @@
     
   - Python
   - SQL
+  - JavaScript
 
 <br>   
     
@@ -42,6 +43,7 @@
   - Django Rest Framework
   - PostgresSQL
   - MariaDB
+  - Aurora
 
 <br>
 
