@@ -49,7 +49,7 @@
 
 - **Cloud Hosting**:
 
-  - AWS (Lambda, S3 Bucket, CloudFront, API Gateway)
+  - AWS (Lambda, S3 Bucket, CloudFront, API Gateway, Route 53, RDS)
     
 <br>
 
@@ -62,7 +62,7 @@
 
 - **Extras**:
 
-  - Ubuntu
+  - WSL Ubuntu
 
 
 </p>
