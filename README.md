@@ -75,7 +75,6 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayneto06&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=rayneto06&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
