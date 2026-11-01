@@ -15,11 +15,11 @@
 
 ### 🚀 What I build
 
-| | |
-|---|---|
-| 🤖 | **Artificial Intelligence Engineer @ Contabilizei**: multi-agent LLM systems (Google ADK) that close sales for a 100k-customer SaaS, with A/B experiments, RAG and regression evals |
-| 🏥 | **AI Engineer @ Leadscare AI**: multi-tenant WhatsApp AI agents for clinics, built end to end on GCP |
-| 🧩 | **Open source**: found a bug in Google ADK's runner in production; [my fix was merged upstream](https://github.com/google/adk-python/commit/d06a7fed56dff71cbfa709edb5bb1d72989eca8e) |
+<table>
+  <tr><td>🤖</td><td><b>Artificial Intelligence Engineer @ Contabilizei</b>: multi-agent LLM systems (Google ADK) that close sales for a 100k-customer SaaS, with A/B experiments, RAG and regression evals</td></tr>
+  <tr><td>🏥</td><td><b>AI Engineer @ Leadscare AI</b>: multi-tenant WhatsApp AI agents for clinics, built end to end on GCP</td></tr>
+  <tr><td>🧩</td><td><b>Open source</b>: found a bug in Google ADK's runner in production; <a href="https://github.com/google/adk-python/commit/d06a7fed56dff71cbfa709edb5bb1d72989eca8e">my fix was merged upstream</a></td></tr>
+</table>
 
 ### ⭐ Featured project
 
